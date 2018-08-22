@@ -1,6 +1,13 @@
+# RN_FontSize_check
 
+## ios and android diffrent font size check simple UI
 
-#### `npm test`
+### Installation 
+It need to install "react-native-swiper"
 
-Runs the [jest](https://github.com/facebook/jest) test runner on your tests.
+https://github.com/leecade/react-native-swiper
+ 
+```
+$ npm i react-native-swiper --save
 
+```
